@@ -7,7 +7,7 @@ let transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
         user: 'zaheugene80@gmail.com',
-        pass: '.140180.'
+        pass: '14__80'
     }
 });
 
@@ -18,6 +18,11 @@ let mailOptions = {
     text: 'That was easy!'
 };
 
+function handleError(error, resp) {
+    resp.writeHead(500, {'Content-Type': 'text/plain'});
+    resp.end(error.message)
+}
+
 http.createServer(function (req, resp) {
     switch (req.url) {
         case '/':
@@ -26,11 +31,15 @@ http.createServer(function (req, resp) {
 
         case '/about':
             console.log(req);
+            console.log(req.url);
+            console.log(req.method);
+            console.log(req.headers);
             resp.end();
             break;
 
         case '/contact':
             let file = fs.readFileSync('index.html');
+            resp.writeHead(200, {'Content-Type': 'text/plain'});
             resp.end(file);
             break;
 
@@ -57,7 +66,12 @@ http.createServer(function (req, resp) {
                     console.log('Email sent: ' + info.response);
                 }
             });
+            break;
+
+        default:
+            resp.writeHead(404, {'Content-Type': 'text/plain'});
+            resp.end('Page not found')
     }
     resp.end()
 
-}).listen(3000);
+}).listen(3000, console.log('Server is running!'));

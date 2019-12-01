@@ -1,0 +1,26 @@
+{
+  "name": "45_JS",
+  "version": "1.0.0",
+  "description": "Study rep of 45_JS group",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "request": "^2.88.0",
+    "unirest": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EugeneZaharchenko/45_JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EugeneZaharchenko/45_JS/issues"
+  },
+  "homepage": "https://github.com/EugeneZaharchenko/45_JS#readme"
+}
