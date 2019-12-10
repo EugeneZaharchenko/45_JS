@@ -12,6 +12,7 @@ log(chalk.green(
     ' green again!'
 ));
 
+
 let request = require('request');
 request('http://quotes.rest/qod.json', function (error, response, body) {
     console.log('error:', error); // Print the error if one occurred
@@ -19,3 +20,13 @@ request('http://quotes.rest/qod.json', function (error, response, body) {
     let content = JSON.parse(body);
     console.log(content["contents"]["quotes"][0]["quote"]) //Return JSON contents
 });
+
+// const MyEmitter = require('events');
+// const myEmitter = new MyEmitter();
+//
+// myEmitter.once('event', () => {
+//     request()
+// });
+//
+// myEmitter.emit('event')
+//
