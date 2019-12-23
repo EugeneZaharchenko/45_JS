@@ -5,14 +5,27 @@ const express = require('express'),
 
 let app = express();
 
+app.set('view engine', 'pug');
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(bodyParser.json());
 
 app.use(express.static(__dirname + '/public'));
 app.use(express.static(__dirname + '/node_modules/bootstrap/dist'));
 
+// app.get('/', function(req, res) {
+//     res.sendFile(path.join(__dirname, 'views', 'index.html'));
+// });
+
 app.get('/', function(req, res) {
-    res.sendFile(path.join(__dirname, 'views', 'index.html'));
+    res.render('index');
+});
+
+app.get('/services', function(req, res) {
+    res.render('services');
+});
+
+app.get('/contacts', function(req, res) {
+    res.render('contacts');
 });
 
 app.post('/send-email', function (req, res) {
@@ -22,7 +35,7 @@ app.post('/send-email', function (req, res) {
         secure: true,
         auth: {
             user: 'eugenezaharchenko@gmail.com',
-            pass: 'secret'
+            pass: 'J.140180.z'
         }
     });
     let mailOptions = {
@@ -38,7 +51,7 @@ app.post('/send-email', function (req, res) {
         }
         console.log('Message %s sent: %s', info.messageId, info.response);
     });
-    res.writeHead(301, { Location: 'index.html' });
+    res.writeHead(301, { Location: 'contacts' });
     res.end();
 });
 

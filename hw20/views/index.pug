@@ -1,1 +1,41 @@
 extends layout
+
+block index
+	.container-fluid
+		.tm-site-header.tm-mb-1
+			.tm-site-name-container.tm-bg-color-1
+				h1.tm-text-white EugeneZ
+			.tm-nav-container.tm-bg-color-8
+				nav#tm-nav.tm-nav
+					ul
+						li.tm-nav-item.current
+							a.tm-nav-link(href="")
+								span.tm-mb-1 .01
+								span About
+						li.tm-nav-item
+							a.tm-nav-link(href="services")
+								span.tm-mb-1 .02
+								span Services
+						li.tm-nav-item
+							a.tm-nav-link(href="contacts")
+								span.tm-nav-text.tm-mb-1 .03
+								span.tm-nav-text Contact
+		section#about.tm-mb-1
+			.tm-row.tm-about-row
+				.tm-section-1-l
+					img.tm-img-responsive(src="img/comparto-image-01.jpg" alt="About image")
+				article.tm-section-1-r.tm-bg-color-8
+					h2.tm-mb-2.tm-title-color .01 About us
+					p Some interesting facts&information about us
+					a.tm-btn.tm-btn-1.tm-link-to-services(href="services") More details
+		.tm-bg-color-1.tm-mb-1.tm-row.tm-social-row
+			.tm-icon
+				.tm-icon-inner
+					a(href="services")
+						i.fas.fa-synagogue.fa-4x.tm-mb-1
+						p Web sites & landing pages
+			.tm-icon
+				.tm-icon-inner
+					a(href="contacts")
+						i.fas.fa-images.fa-4x.tm-mb-1
+						p Our team and contact information

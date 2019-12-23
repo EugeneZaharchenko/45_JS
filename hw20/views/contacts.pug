@@ -1,0 +1,46 @@
+extends layout
+
+block index
+	.container-fluid
+		.tm-site-header.tm-mb-1
+			.tm-site-name-container.tm-bg-color-1
+				h1.tm-text-white EugeneZ
+			.tm-nav-container.tm-bg-color-8
+				nav#tm-nav.tm-nav
+					ul
+						li.tm-nav-item
+							a.tm-nav-link(href="/")
+								span.tm-mb-1 .01
+								span About
+						li.tm-nav-item
+							a.tm-nav-link(href="/services")
+								span.tm-mb-1 .02
+								span Services
+						li.tm-nav-item.current
+							a.tm-nav-link(href="")
+								span.tm-nav-text.tm-mb-1 .03
+								span.tm-nav-text Our contacts
+		section#contact.tm-bg-color-5.tm-mb-3
+			h2.tm-text-white.tm-contact-title .03 Contact Us
+			.tm-bg-color-white.tm-contact-main
+				.gmap-canvas
+					iframe#gmap-canvas(width="100%" height="400"
+						src="https://goo.gl/maps/KYnR6LxMtXGswyHy7"
+						frameborder="0" scrolling="no" marginheight="0" marginwidth="0")
+				.contact-form-outer
+					form#contact-form.tm-bg-color-6.tm-contact-form(action="/send-email" method="POST")
+						.form-group
+							input.form-control(type="text" name="name" placeholder="Name" required="")
+						.form-group
+							input.form-control(type="email" name="email" placeholder="Email" required="")
+						.form-group
+							textarea.form-control(rows="4" name="message" class="form-control" placeholder="Message..." required="")
+						button.ml-auto.tm-btn.tm-btn-3(type="submit") Send
+				.contact-info-outer
+					.tm-bg-color-6.contact-info
+						p Pellentesque egestas odio sed tellus dictum, vel lobortis ante vehicula.
+						p Morbi eget accumsan libero, non tincidunt felis.
+						p.tm-mb-0 Tel:
+							a(href="tel:0671843500") 067-184-3500
+						p Email:
+							a(href="mailto:info@company.com") info@company.com
