@@ -35,7 +35,7 @@ app.post('/send-email', function (req, res) {
         secure: true,
         auth: {
             user: 'eugenezaharchenko@gmail.com',
-            pass: 'J.140180.z'
+            pass: 'угадай)'
         }
     });
     let mailOptions = {
