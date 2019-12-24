@@ -35,15 +35,17 @@ app.post('/send-email', function (req, res) {
         secure: true,
         auth: {
             user: 'eugenezaharchenko@gmail.com',
-            pass: 'угадай)'
+            pass: 'угадай'
         }
     });
+
     let mailOptions = {
         to: 'eugenez80@aol.com',
         subject: req.body.subject,
         body: req.body.message,
         text: 'Some text',
-        html: '<b>Hello world?</b>'
+        html: '<h2>Test mail</h2>' +
+            '<b>Hello world?</b>'
     };
     transporter.sendMail(mailOptions, (error, info) => {
         if (error) {
