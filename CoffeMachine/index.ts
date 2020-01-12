@@ -8,29 +8,11 @@ interface Coffee {
     setMilk: (quant: number) => void;
 }
 
-abstract class Water {
+abstract class Substance {
     protected constructor (public quant: number) {
     }
 
-    public getWater(): number {
-        return this.quant
-    }
-}
-
-abstract class Beans {
-    protected constructor (public grade: string) {
-    }
-
-    public getBeans(): string {
-        return this.grade
-    }
-}
-
-abstract class Milk {
-    protected constructor (public quant: number) {
-    }
-
-    public getMilk(): number {
+    public getSubstance(): number {
         return this.quant
     }
 }
