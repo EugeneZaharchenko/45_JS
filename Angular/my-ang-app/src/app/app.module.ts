@@ -3,6 +3,9 @@ import { NgModule, APP_INITIALIZER } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { FirstComponent } from './first/first/first.component';
+import {FirstModule} from './first/first.module';
+import { TestComponent } from './test/test.component';
 
 export function myAngularProvideFactory() {
   return () => {
@@ -15,11 +18,12 @@ export function myAngularProvideFactory() {
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent, TestComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    FirstModule
   ],
   providers: [
     {

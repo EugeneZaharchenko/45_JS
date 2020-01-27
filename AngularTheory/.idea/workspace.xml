@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e9cf947-3fd9-46a3-b0dd-e8037a1a30b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/01 Variables and Functions.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/01 Variables and Functions_(Presentation).pptx.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/01-hello-world-vs-code/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/01-hello-world-vs-code/app.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/01-hello-world-vs-code/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/.vs/config/applicationhost.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/.vs/ts-sample/DesignTimeBuild/.dtbcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/.vs/ts-sample/v15/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/.vs/ts-sample/v15/Server/sqlite3/db.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/.vs/ts-sample/v15/Server/sqlite3/storage.ide" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/.vs/ts-sample/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/.vs/ts-sample/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/.vs/ts-sample/v15/sqlite3/storage.ide" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.5/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.5.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.5/build/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.5/content/net45/web.config.install.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.5/content/net45/web.config.uninstall.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.5/content/net46/web.config.install.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.5/content/net46/web.config.uninstall.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.5/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.5/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.5/tools/net45/install.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.5/tools/net45/uninstall.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8/build/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8/content/net45/web.config.install.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8/content/net45/web.config.uninstall.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8/content/net46/web.config.install.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8/content/net46/web.config.uninstall.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8/tools/net45/install.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8/tools/net45/uninstall.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/Microsoft.Net.Compilers.2.1.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/ThirdPartyNotices.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/build/Microsoft.Net.Compilers.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/Microsoft.Build.Tasks.CodeAnalysis.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/Microsoft.CSharp.Core.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/Microsoft.CodeAnalysis.CSharp.Scripting.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/Microsoft.CodeAnalysis.CSharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/Microsoft.CodeAnalysis.Scripting.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/Microsoft.CodeAnalysis.VisualBasic.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/Microsoft.CodeAnalysis.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/Microsoft.DiaSymReader.Native.amd64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/Microsoft.DiaSymReader.Native.x86.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/Microsoft.VisualBasic.Core.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/Microsoft.Win32.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/System.AppContext.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/System.Collections.Immutable.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/System.Console.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/System.Diagnostics.FileVersionInfo.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/System.Diagnostics.Process.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/System.Diagnostics.StackTrace.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/System.IO.Compression.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/System.IO.FileSystem.DriveInfo.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/System.IO.FileSystem.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/System.IO.FileSystem.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/System.IO.Pipes.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/System.Reflection.Metadata.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/System.Security.AccessControl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/System.Security.Claims.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/System.Security.Cryptography.Algorithms.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/System.Security.Cryptography.Encoding.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/System.Security.Cryptography.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/System.Security.Cryptography.X509Certificates.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/System.Security.Principal.Windows.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/System.Text.Encoding.CodePages.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/System.Threading.Thread.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/System.ValueTuple.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/System.Xml.ReaderWriter.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/System.Xml.XPath.XDocument.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/System.Xml.XPath.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/System.Xml.XmlDocument.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/VBCSCompiler.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/VBCSCompiler.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/csc.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/csc.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/csc.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/csi.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/csi.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/csi.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/vbc.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/vbc.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.1.0/tools/vbc.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/Microsoft.Net.Compilers.2.6.1.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/ThirdPartyNotices.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/build/Microsoft.Net.Compilers.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/Microsoft.Build.Tasks.CodeAnalysis.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/Microsoft.CSharp.Core.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/Microsoft.CodeAnalysis.CSharp.Scripting.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/Microsoft.CodeAnalysis.CSharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/Microsoft.CodeAnalysis.Scripting.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/Microsoft.CodeAnalysis.VisualBasic.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/Microsoft.CodeAnalysis.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/Microsoft.DiaSymReader.Native.amd64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/Microsoft.DiaSymReader.Native.x86.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/Microsoft.VisualBasic.Core.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/Microsoft.Win32.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/System.AppContext.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/System.Collections.Immutable.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/System.Console.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/System.Diagnostics.FileVersionInfo.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/System.Diagnostics.Process.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/System.Diagnostics.StackTrace.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/System.IO.Compression.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/System.IO.FileSystem.DriveInfo.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/System.IO.FileSystem.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/System.IO.FileSystem.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/System.IO.Pipes.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/System.Reflection.Metadata.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/System.Security.AccessControl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/System.Security.Claims.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/System.Security.Cryptography.Algorithms.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/System.Security.Cryptography.Encoding.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/System.Security.Cryptography.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/System.Security.Cryptography.X509Certificates.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/System.Security.Principal.Windows.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/System.Text.Encoding.CodePages.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/System.Threading.Thread.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/System.ValueTuple.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/System.Xml.ReaderWriter.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/System.Xml.XPath.XDocument.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/System.Xml.XPath.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/System.Xml.XmlDocument.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/VBCSCompiler.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/VBCSCompiler.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/csc.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/csc.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/csc.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/csi.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/csi.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/csi.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/vbc.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/vbc.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/packages/Microsoft.Net.Compilers.2.6.1/tools/vbc.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/app.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/app.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/Microsoft.CSharp.Core.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/Microsoft.CodeAnalysis.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/Microsoft.VisualBasic.Core.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/Microsoft.Win32.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/System.AppContext.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/System.Collections.Immutable.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/System.Console.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/System.Diagnostics.FileVersionInfo.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/System.Diagnostics.Process.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/System.Diagnostics.StackTrace.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/System.IO.Compression.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/System.IO.FileSystem.DriveInfo.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/System.IO.FileSystem.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/System.IO.FileSystem.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/System.IO.Pipes.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/System.Reflection.Metadata.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/System.Security.AccessControl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/System.Security.Claims.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/System.Security.Cryptography.Algorithms.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/System.Security.Cryptography.Encoding.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/System.Security.Cryptography.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/System.Security.Cryptography.X509Certificates.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/System.Security.Principal.Windows.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/System.Text.Encoding.CodePages.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/System.Threading.Thread.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/System.ValueTuple.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/System.Xml.ReaderWriter.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/System.Xml.XPath.XDocument.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/System.Xml.XPath.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/System.Xml.XmlDocument.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/VBCSCompiler.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/VBCSCompiler.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/csc.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/csc.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/csc.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/csi.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/csi.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/csi.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/vbc.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/vbc.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/roslyn/vbc.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/ts-sample.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/bin/ts-sample.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/obj/Debug/Tsc.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/obj/Debug/ts-sample.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/obj/Debug/ts-sample.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/obj/Debug/ts-sample.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/obj/Debug/ts-sample.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/obj/Debug/ts-sample.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/obj/Debug/ts-sample.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/obj/Debug/ts-sample.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/ts-sample.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/02-hello-world-vs/ts-sample/ts-sample.csproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/03-ts-config/dist/folder-1/file.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/03-ts-config/dist/folder-1/file.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/03-ts-config/dist/folder-2/file.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/03-ts-config/dist/folder-2/file.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/03-ts-config/folder-1/file.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/03-ts-config/folder-2/file.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/03-ts-config/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/01-variables/01-variables.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/01-variables/02-var-scoping.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/01-variables/03-let-scoping.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/01-variables/04-types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/01-variables/05-arrays.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/01-variables/06-tuples.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/01-variables/07-enums.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/01-variables/08-any.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/01-variables/09-void.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/01-variables/10-type-assertions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/02-functions/01-functions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/02-functions/02-function-type.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/02-functions/03-optional-params.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/02-functions/04-rest-params.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/02-functions/05-context.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/02-functions/06-arrow-function.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/02-functions/07-arrow-function-context.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/02-functions/08-overloads.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/01-variables/01-variables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/01-variables/01-variables.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/01-variables/02-var-scoping.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/01-variables/02-var-scoping.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/01-variables/03-let-scoping.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/01-variables/03-let-scoping.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/01-variables/04-types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/01-variables/04-types.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/01-variables/05-arrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/01-variables/05-arrays.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/01-variables/06-tuples.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/01-variables/06-tuples.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/01-variables/07-enums.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/01-variables/07-enums.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/01-variables/08-any.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/01-variables/08-any.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/01-variables/09-void.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/01-variables/09-void.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/01-variables/10-type-assertions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/01-variables/10-type-assertions.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/02-functions/01-functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/02-functions/01-functions.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/02-functions/02-function-type.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/02-functions/02-function-type.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/02-functions/03-optional-params.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/02-functions/03-optional-params.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/02-functions/04-rest-params.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/02-functions/04-rest-params.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/02-functions/05-context.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/02-functions/05-context.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/02-functions/06-arrow-function.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/02-functions/06-arrow-function.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/02-functions/07-arrow-function-context.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/02-functions/07-arrow-function-context.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/02-functions/08-overloads.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/dist/02-functions/08-overloads.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/images/apple.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/images/orange.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/images/tomato.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/pages/01-02-var-scoping.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/pages/01-03-let-scoping.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/pages/01-04-types.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/pages/01-05-arrays.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/pages/01-06-tuples.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/pages/01-07-enums.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/pages/01-08-any.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/pages/02-01-functions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/pages/02-02-function-type.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/pages/02-03-optional-parameters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/pages/02-04-rest-parameters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/pages/02-05-context.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/pages/02-06-arrow-function.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/pages/02-07-arrow-function-context.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/pages/02-08-overloads.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/01 Variables and Functions/04-samples/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Angular/my-ang-app/src/app/first/first.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/AngularTheory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/book/book.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/book/book.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/book/book.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/book/chapter/chapter.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/book/chapter/chapter.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/book/chapter/chapter.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/my-ang-app/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Angular/my-ang-app/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/my-ang-app/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Angular/my-ang-app/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/my-ang-app/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Angular/my-ang-app/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/my-ang-app/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Angular/my-ang-app/src/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Wxxo4M0TAkalpKTP6CsW72FCsI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\J0Z\WebstormProjects\45_JS\AngularTheory\node_modules\typescript\lib" />
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Tests (AngularTheory)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests (AngularTheory)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e9cf947-3fd9-46a3-b0dd-e8037a1a30b9" name="Default Changelist" comment="" />
+      <created>1580105218281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580105218281</updated>
+      <workItem from="1580105219887" duration="1922000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1259" height="169" key="GridCell.Tab.0.bottom" timestamp="1580111780039">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="169" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.2048.1152@0.0.1280.720" timestamp="1580111780039" />
+    <state width="1259" height="169" key="GridCell.Tab.0.center" timestamp="1580111780035">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="169" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.2048.1152@0.0.1280.720" timestamp="1580111780035" />
+    <state width="1259" height="169" key="GridCell.Tab.0.left" timestamp="1580111780035">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="169" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.2048.1152@0.0.1280.720" timestamp="1580111780035" />
+    <state width="1259" height="169" key="GridCell.Tab.0.right" timestamp="1580111780039">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="169" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.2048.1152@0.0.1280.720" timestamp="1580111780039" />
+  </component>
+</project>

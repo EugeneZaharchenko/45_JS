@@ -516,16 +516,4 @@
 
 <!--</div>-->
 
-<!-- * * * * * * * * * * * The content above * * * * * * * * * * * -->
-<!-- * * * * * * * * * * is only a placeholder * * * * * * * * * * -->
-
-<label>
-  <input type="text" [value]="title" (input)="onInput($event)" #myInput>
-</label>
-<p>Hello, my {{myInput.value}}</p>
-<div (click)="onGetInputValue(myInput)">GetValue</div>
-
-<!--<router-outlet></router-outlet>-->
-<app-first></app-first>
-<app-test [myTitle]="title" (myOutputData)="onEmitData($event)"></app-test>
-
+<app-book></app-book>

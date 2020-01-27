@@ -1,0 +1,15 @@
+p {
+  font-style: italic;
+}
+
+:host /deep/ p {
+  font-style: italic;
+  color: blueviolet;
+}
+
+:host {
+  display: block;
+  border: 1px solid #2321ff;
+  margin: 5px;
+  padding: 5px;
+}
