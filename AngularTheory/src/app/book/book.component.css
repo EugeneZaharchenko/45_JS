@@ -13,3 +13,15 @@ p {
   margin: 5px;
   padding: 5px;
 }
+
+.text {
+  font-weight: bold;
+  color: red;
+}
+
+.border {
+  border: 5px solid #5e4b80;
+}
+
+.bg {
+  background-color: yellow;}

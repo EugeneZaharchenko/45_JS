@@ -17,4 +17,53 @@
 
 <app-chapter></app-chapter>
 <app-chapter></app-chapter>
-<app-chapter></app-chapter>
+
+<input type="text" [value]="valueX" (input)="valueX = $event.target.value">X
+<input type="text" [(ngModel)]="valueY">Y
+<button class="btn btn-primary mr-2" (click)="calc()">Calc</button>
+<button class="btn btn-secondary" (click)="reset()">Reset</button>
+<p>{{result}}</p>
+
+<hr>
+<p> - - - - - - - - - - - - - - </p>
+
+<div [ngClass]="'text'">Some text</div>
+<div [ngClass]="['text', 'border']">Some text</div>
+<div [ngClass]="settings">Some text</div>
+<hr>
+<div [ngClass]="settings">HELLLO</div>
+<div>
+  [class.text]="settings.text"
+  [class.border]="settings.border"
+  [class.bg]="settings.bg"
+  TEST
+</div>
+
+<input type="checkbox" [(ngModel)]="settings.text">text <br>
+<input type="checkbox" [(ngModel)]="settings.border">border <br>
+<input type="checkbox" [(ngModel)]="settings.bg">bg <br>
+
+<hr>
+<p> - - - - - - - - - - - - - - </p>
+
+<h2>Items</h2>
+<ul>
+  <li *ngFor="let item of items">{{item}}</li>
+</ul>
+
+<h2>Persons</h2>
+<ul>
+  <li *ngFor="let pers of items_person"
+      [class.bg]="pers.age > 25"
+  >
+    {{pers.name}}
+  </li>
+</ul>
+
+<hr>
+<p> - - - - - - - - - - - - - - </p>
+
+<div MyColor>option 1</div>
+<div class="my-color">option 2</div>
+<div>option 3</div>
+<div>option 4</div>
