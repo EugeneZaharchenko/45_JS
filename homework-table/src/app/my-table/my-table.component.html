@@ -3,10 +3,11 @@
 <div class="center">
 
   <table class="table table-striped">
-    <tr *ngFor = "let row of Products.slice(0, rows)">
+    <tr *ngFor = "let row of Products.slice(0, rows)" [ngStyle]="{backgroundColor: getColor(row.price)}">
       <td>Id: {{row.id}}</td>
-      <td>Name: {{row.name}}</td>
+      <td>{{row.name}}</td>
       <td>Price: {{row.price}}</td>
+      <td>Enter product: <input [(ngModel)]='row.name' /></td>
       <td><button class="btn-danger" (click)="removeColumn(row.id)"> Remove row </button></td>
     </tr>
   </table>

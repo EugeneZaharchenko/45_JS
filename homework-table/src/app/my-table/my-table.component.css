@@ -2,3 +2,10 @@ table {
   width: 80%;
   margin: 0 auto;
 }
+
+tr:nth-child(even) {
+  background-color: rgba(122, 255, 210, 0.26);
+}
+
+tr:hover {
+  background-color: rgba(112, 227, 185, 0.71);}

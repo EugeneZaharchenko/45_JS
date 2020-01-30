@@ -7,6 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 
 export class MyTableComponent implements OnInit {
+  bg_color: string;
 
   constructor() {
   }
@@ -28,13 +29,19 @@ export class MyTableComponent implements OnInit {
   ];
 
   //параметр rows позволяет задавать кол-во отображаемых строк таблицы
-  rows: number = 3;
+  rows: number = 10;
 
   removeColumn(id: number) {
     if (this.Products.length) {
       let index = this.Products.indexOf(this.Products[id]);
       console.log(index);
       this.Products.splice(index-1, 1);
+    }
+  }
+
+  getColor(threshold) {
+    if (threshold > 500) {
+      return this.bg_color = 'red'
     }
   }
 }
